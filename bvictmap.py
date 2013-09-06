@@ -1,4 +1,4 @@
-#!/bin/env/pyton
+#!/bin/env/python
 # Written by: Blevene
 # Make sure you set your default DNS to OpenDNS
 # or google, otherwise your ISP will ::mad::

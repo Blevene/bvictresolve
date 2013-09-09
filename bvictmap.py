@@ -7,7 +7,7 @@ c=adns.init()
 
 #Check if results file exists already.
 if os.path.isfile('plzworkresults.csv'):
-	print "BUTTS"
+	print "A results file already exists!"
 # If no results file, resolve all of the domains in top-1m.csv
 else:
 	reader = csv.reader(open('top-1m.csv', 'r'))
